@@ -1,6 +1,7 @@
 package BehavioralPatterns.StrategyPatterns.WithStrategyPattern;
 
-import StrategyDesignPattern.WithStrategyPattern.Strategy.NormalDriveStrategy;
+
+import BehavioralPatterns.StrategyPatterns.WithStrategyPattern.Strategy.NormalDriveStrategy;
 
 public class GoodsVehicle extends Vehicle {
 

@@ -1,6 +1,6 @@
 package BehavioralPatterns.StrategyPatterns.WithStrategyPattern;
 
-import StrategyDesignPattern.WithStrategyPattern.Strategy.SportDriveStrategy;
+import BehavioralPatterns.StrategyPatterns.WithStrategyPattern.Strategy.SportDriveStrategy;
 
 public class SportVehicle extends Vehicle {
 
