@@ -24,3 +24,10 @@ public class Main {
         System.out.println("VegDelight Pizza with Mushrooms cost: " + vegDelightWithMushrooms.cost());
     }
 }
+
+
+/*
+Intent:-
+         Attach Additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing
+         for extending functionality.
+*/
