@@ -25,3 +25,7 @@ public class Main {
     }
 }
 
+
+/*
+Intent:- Ensure a class only one instance, and provide a global point of access to it.
+*/
