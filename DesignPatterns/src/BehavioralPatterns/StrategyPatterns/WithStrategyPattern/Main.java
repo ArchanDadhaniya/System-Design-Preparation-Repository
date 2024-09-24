@@ -8,3 +8,10 @@ public class Main {
         vehicle.drive();
     }
 }
+
+
+/*
+Intent:-
+         Define a family of algorithms,encapsulate each one, and make them interchangeable. Strategy lets the algorithms
+         vary independently from clients that use it.
+ */
