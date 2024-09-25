@@ -30,3 +30,9 @@ public class Main {
         System.out.println("Object1 == Object2: " + (object1 == object2)); // Should be true
     }
 }
+
+
+/*
+Intent:-
+         Use sharing to support large numbers of fine-grained objects efficiently.
+ */
