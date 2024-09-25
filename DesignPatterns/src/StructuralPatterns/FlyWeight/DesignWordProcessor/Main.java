@@ -36,3 +36,29 @@ public class Main {
 Intent:-
          Use sharing to support large numbers of fine-grained objects efficiently.
  */
+
+/*
+Definition:- it's one of the structural Design Pattern. This Pattern helps to reduce the memory usage by sharing data
+             among the multiple object.
+ */
+
+
+/*
+Observe and understand, when to use this pattern:
+
+- When memory is limited.
+- When object shared data.
+    - intrinsic data:- Shared among object and remain same once defined one value.
+    - Extrinsic data:-  changes based on client  input and differs from one object to another.
+- Creation of object is expensive.
+*/
+
+
+/*
+This is how solves the issue:
+- From object, remove all the Extrinsic data and keep intrinsic data(this object called Flyweight Object)
+- This Flyweight class can be immutable.
+- Extrinsic Data can be passed to the Flyweight class in method parameter.
+- Once the Flyweight Object is created, it is Cached and reused whenever required.
+
+ */
