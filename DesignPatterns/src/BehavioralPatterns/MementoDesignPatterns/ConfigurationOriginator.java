@@ -1,4 +1,4 @@
-package BehavioralPatterns.MomentoDesignPatterns;
+package BehavioralPatterns.MementoDesignPatterns;
 
 public class ConfigurationOriginator {
 
